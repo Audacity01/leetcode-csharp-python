@@ -17,3 +17,6 @@ My solutions to LeetCode problems in C# and Python.
 | 53 | Maximum Subarray | Medium | ✅ | ✅ |
 | 15 | 3Sum | Medium | ✅ | ✅ |
 | 121 | Best Time to Buy and Sell Stock | Easy | ✅ | ✅ |
+| 206 | Reverse Linked List | Easy | ✅ | ✅ |
+| 21 | Merge Two Sorted Lists | Easy | ✅ | ✅ |
+| 141 | Linked List Cycle | Easy | ✅ | ✅ |
