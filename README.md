@@ -1,0 +1,19 @@
+# LeetCode Solutions
+
+My solutions to LeetCode problems in C# and Python.
+
+## Structure
+- `arrays/` — Array and string problems
+- `linked-lists/` — Linked list problems
+- `trees/` — Tree and graph problems
+- `dynamic-programming/` — DP problems
+- `sorting/` — Sorting and searching
+
+## Progress
+| # | Problem | Difficulty | C# | Python |
+|---|---------|-----------|-----|--------|
+| 1 | Two Sum | Easy | ✅ | ✅ |
+| 217 | Contains Duplicate | Easy | ✅ | ✅ |
+| 53 | Maximum Subarray | Medium | ✅ | ✅ |
+| 15 | 3Sum | Medium | ✅ | ✅ |
+| 121 | Best Time to Buy and Sell Stock | Easy | ✅ | ✅ |
