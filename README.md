@@ -20,3 +20,7 @@ My solutions to LeetCode problems in C# and Python.
 | 206 | Reverse Linked List | Easy | ✅ | ✅ |
 | 21 | Merge Two Sorted Lists | Easy | ✅ | ✅ |
 | 141 | Linked List Cycle | Easy | ✅ | ✅ |
+| 104 | Maximum Depth of Binary Tree | Easy | ✅ | ✅ |
+| 226 | Invert Binary Tree | Easy | ✅ | ✅ |
+| 98 | Validate BST | Medium | ✅ | ✅ |
+| 102 | Binary Tree Level Order Traversal | Medium | ✅ | ✅ |
