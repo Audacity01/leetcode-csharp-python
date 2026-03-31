@@ -24,3 +24,7 @@ My solutions to LeetCode problems in C# and Python.
 | 226 | Invert Binary Tree | Easy | ✅ | ✅ |
 | 98 | Validate BST | Medium | ✅ | ✅ |
 | 102 | Binary Tree Level Order Traversal | Medium | ✅ | ✅ |
+| 70 | Climbing Stairs | Easy | ✅ | ✅ |
+| 322 | Coin Change | Medium | ✅ | ✅ |
+| 198 | House Robber | Medium | ✅ | ✅ |
+| 300 | Longest Increasing Subsequence | Medium | ✅ | ✅ |
