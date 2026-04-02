@@ -7,6 +7,7 @@ My solutions to LeetCode problems in C# and Python.
 - `linked-lists/` — Linked list problems
 - `trees/` — Tree and graph problems
 - `dynamic-programming/` — DP problems
+- `strings/` — String problems
 - `sorting/` — Sorting and searching
 
 ## Progress
@@ -28,3 +29,7 @@ My solutions to LeetCode problems in C# and Python.
 | 322 | Coin Change | Medium | ✅ | ✅ |
 | 198 | House Robber | Medium | ✅ | ✅ |
 | 300 | Longest Increasing Subsequence | Medium | ✅ | ✅ |
+| 242 | Valid Anagram | Easy | ✅ | ✅ |
+| 125 | Valid Palindrome | Easy | ✅ | ✅ |
+| 3 | Longest Substring Without Repeating | Medium | ✅ | ✅ |
+| 49 | Group Anagrams | Medium | ✅ | ✅ |
