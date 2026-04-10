@@ -9,6 +9,7 @@ My solutions to LeetCode problems in C# and Python.
 - `dynamic-programming/` — DP problems
 - `strings/` — String problems
 - `sorting/` — Sorting and searching
+- `stack/` — Stack problems
 
 ## Progress
 | # | Problem | Difficulty | C# | Python |
@@ -33,3 +34,7 @@ My solutions to LeetCode problems in C# and Python.
 | 125 | Valid Palindrome | Easy | ✅ | ✅ |
 | 3 | Longest Substring Without Repeating | Medium | ✅ | ✅ |
 | 49 | Group Anagrams | Medium | ✅ | ✅ |
+| 20 | Valid Parentheses | Easy | ✅ | ✅ |
+| 155 | Min Stack | Medium | ✅ | ✅ |
+| 739 | Daily Temperatures | Medium | ✅ | ✅ |
+| 150 | Evaluate Reverse Polish Notation | Medium | ✅ | ✅ |
